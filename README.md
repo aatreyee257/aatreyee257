@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aatreyee 👋</h1>
+<h1 align="center">Hi, I'm Aatreyee 👾 </h1>
 <h3 align="center">Software engineer · Cloud infrastructure · Applied AI</h3>
 
 <p align="center">
