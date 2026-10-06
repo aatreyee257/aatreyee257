@@ -20,6 +20,18 @@
 
 ---
 
+🚧 Currently building
+
+Melbourne Data Warehouse — an end-to-end analytics pipeline on Victorian public data. Python ingestion → star-schema warehouse (DuckDB + dbt) → SQL analysis → interactive dashboard.
+
+ Project scoping and dataset selection
+ Ingestion pipeline
+ Dimensional model with dbt
+ Analysis queries and findings
+ Dashboard
+
+---
+
 ### Featured projects
 
 | Project | What it does | Stack |
@@ -51,13 +63,3 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 ---
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aatreyee257&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatreyee257&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aatreyee257&theme=github-dark-blue&hide_border=true" />
-</p>
