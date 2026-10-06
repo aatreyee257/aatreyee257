@@ -20,15 +20,16 @@
 
 ---
 
-🚧 Currently building
+### 🚧 Currently building
 
-Melbourne Data Warehouse — an end-to-end analytics pipeline on Victorian public data. Python ingestion → star-schema warehouse (DuckDB + dbt) → SQL analysis → interactive dashboard.
+**Melbourne Data Warehouse** — an end-to-end analytics pipeline on Victorian public data.
+Python ingestion → star-schema warehouse (DuckDB + dbt) → SQL analysis → interactive dashboard.
 
- Project scoping and dataset selection
- Ingestion pipeline
- Dimensional model with dbt
- Analysis queries and findings
- Dashboard
+- [x] Project scoping and dataset selection
+- [ ] Ingestion pipeline
+- [ ] Dimensional model with dbt
+- [ ] Analysis queries and findings
+- [ ] Dashboard
 
 ---
 
@@ -61,5 +62,3 @@ Melbourne Data Warehouse — an end-to-end analytics pipeline on Victorian publi
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-
----
