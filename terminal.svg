@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="346" viewBox="0 0 820 346" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14">
+<rect width="820" height="346" rx="12" fill="#0d1117"/>
+<rect width="820" height="36" rx="12" fill="#161b22"/><rect y="24" width="820" height="12" fill="#161b22"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="410.0" y="23" text-anchor="middle" fill="#7d8590" font-size="12">aatreyee@melbourne: ~</text>
+<clipPath id="c0"><rect x="28" y="48" height="24" width="0"><animate attributeName="width" begin="0.50s" dur="0.40s" values="17.9;26.3;34.7;43.1;51.6;60.0;68.4" calcMode="discrete" fill="freeze"/></rect></clipPath>
+<text x="28" y="64" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<text x="28" y="88" opacity="0" xml:space="preserve"><tspan fill="#bc8cff">aatreyee mukherjee</tspan><tspan fill="#7d8590"> · cloud infra · applied AI · melbourne</tspan><animate attributeName="opacity" begin="1.25s" dur="0.01s" to="1" fill="freeze"/></text>
+<clipPath id="c3"><rect x="28" y="120" height="24" width="0"><animate attributeName="width" begin="1.72s" dur="1.74s" values="17.9;26.3;34.7;43.1;51.6;60.0;68.4;76.9;85.3;93.7;102.2;110.6;119.0;127.4;135.9;144.3;152.7;161.2;169.6;178.0;186.5;194.9;203.3;211.8;220.2;228.6;237.0;245.5;253.9;262.3" calcMode="discrete" fill="freeze"/></rect></clipPath>
+<text x="28" y="136" clip-path="url(#c3)" xml:space="preserve"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">terraform plan -target=career</tspan></text>
+<text x="28" y="160" opacity="0" xml:space="preserve"><tspan fill="#3fb950">  + </tspan><tspan fill="#58a6ff">education</tspan><tspan fill="#7d8590">   = </tspan><tspan fill="#d29922">&quot;Master of IT @ Monash, Dec 2027&quot;</tspan><animate attributeName="opacity" begin="3.81s" dur="0.01s" to="1" fill="freeze"/></text>
+<text x="28" y="184" opacity="0" xml:space="preserve"><tspan fill="#d29922">  ~ </tspan><tspan fill="#58a6ff">experience</tspan><tspan fill="#7d8590">  = </tspan><tspan fill="#d29922">[&quot;IBM&quot;, &quot;GSK&quot;, &quot;Monash AT&quot;]</tspan><animate attributeName="opacity" begin="4.03s" dur="0.01s" to="1" fill="freeze"/></text>
+<text x="28" y="208" opacity="0" xml:space="preserve"><tspan fill="#3fb950">  + </tspan><tspan fill="#58a6ff">next</tspan><tspan fill="#7d8590">        = </tspan><tspan fill="#d29922">&quot;2027 internship&quot;</tspan><animate attributeName="opacity" begin="4.25s" dur="0.01s" to="1" fill="freeze"/></text>
+<text x="28" y="232" opacity="0" xml:space="preserve"><tspan fill="#e6edf3">Plan: </tspan><tspan fill="#3fb950">2 to add</tspan><tspan fill="#e6edf3">, </tspan><tspan fill="#d29922">1 to change</tspan><tspan fill="#e6edf3">, </tspan><tspan fill="#ff7b72">0 to destroy</tspan><tspan fill="#e6edf3">.</tspan><animate attributeName="opacity" begin="4.47s" dur="0.01s" to="1" fill="freeze"/></text>
+<clipPath id="c9"><rect x="28" y="264" height="24" width="0"><animate attributeName="width" begin="4.94s" dur="0.90s" values="17.9;26.3;34.7;43.1;51.6;60.0;68.4;76.9;85.3;93.7;102.2;110.6;119.0;127.4;135.9;144.3" calcMode="discrete" fill="freeze"/></rect></clipPath>
+<text x="28" y="280" clip-path="url(#c9)" xml:space="preserve"><tspan fill="#3fb950">$ </tspan><tspan fill="#e6edf3">terraform apply</tspan></text>
+<text x="28" y="304" opacity="0" xml:space="preserve"><tspan fill="#7d8590">Apply in progress...</tspan><animate attributeName="opacity" begin="6.19s" dur="0.01s" to="1" fill="freeze"/></text>
+<rect x="200.6" y="291" width="8" height="16" fill="#3fb950" opacity="0"><animate attributeName="opacity" begin="6.41s" dur="1s" values="1;1;0;0" keyTimes="0;0.5;0.5;1" repeatCount="indefinite"/></rect>
+</svg>

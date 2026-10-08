@@ -1,64 +1,77 @@
-<h1 align="center">Hi, I'm Aatreyee 👋</h1>
-<h3 align="center">Software engineer · Cloud infrastructure · Applied AI</h3>
-
 <p align="center">
-  <a href="https://aatreyeemukherjee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aatreyee-mukherjee-8253ab216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aatreyee257@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="terminal.svg" alt="Terminal: whoami → Aatreyee Mukherjee, cloud infra and applied AI, Melbourne. terraform plan shows education, experience and next: 2027 internship." width="100%">
 </p>
 
+<p align="center">
+  <a href="https://aatreyeemukherjee.vercel.app"><img src="https://img.shields.io/badge/portfolio-visit-3fb950?style=flat-square&labelColor=0d1117" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/aatreyee-mukherjee-8253ab216/"><img src="https://img.shields.io/badge/linkedin-connect-58a6ff?style=flat-square&labelColor=0d1117" alt="LinkedIn"></a>
+  <a href="mailto:aatreyee257@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-bc8cff?style=flat-square&labelColor=0d1117" alt="Email"></a>
+</p>
+
+I used to write Terraform for IBM Cloud. Now I'm doing a Master of IT at Monash, building RAG pipelines for assistive tech, and making small Chrome extensions at midnight when I should be studying.
+
+Open to **2027 internships** in software, cloud, data and security.
+
 ---
 
-### About me
+### 📦 `terraform state list`
 
-- 🎓 Master of Information Technology at **Monash University**, Melbourne (graduating Dec 2027)
-- 💼 Previously **Software Developer at IBM** — Terraform, IaC and IBM Cloud VPC in Go
-- 🧪 Previously **Digital & Tech Intern at GSK** — Python ETL pipelines
-- 🤖 AI Engineer with **Monash Assistive Technology** — building RAG evaluation pipelines
-- 🔭 Currently: preparing for **AWS Solutions Architect – Associate**
-- 🤝 Open to **2027 internships** in software, cloud, data and security
+<details>
+<summary><b>module.infraalign</b>: drift detection for Terraform, in Go</summary>
+<br>
+
+A Go CLI that compares your Terraform code against live AWS infrastructure, flags drift, sends Slack alerts and can auto-remediate.
+
+`Go` `Terraform` `AWS` → [repo](https://github.com/aatreyee257/InfraAlign)
+</details>
+
+<details>
+<summary><b>module.rag_eval</b>: local RAG evaluation for assistive-tech research</summary>
+<br>
+
+A fully local retrieval pipeline built for the Monash Assistive Technology team, used to evaluate how well RAG setups answer research questions.
+
+`Python` `LangChain` `Ollama` `ChromaDB`
+</details>
+
+<details>
+<summary><b>module.portfolio</b>: my site, with a terminal hero and a live InfraAlign demo</summary>
+<br>
+
+Next.js site on Vercel. The hero types out Terraform, and you can run an InfraAlign drift check right in the browser.
+
+`Next.js` `TypeScript` `Tailwind` → [visit](https://aatreyeemukherjee.vercel.app) · [repo](https://github.com/aatreyee257/portfolio)
+</details>
 
 ---
 
-### 🚧 Currently building
+### 🚧 `terraform apply` in progress: Melbourne Data Warehouse
 
-**Melbourne Data Warehouse** — an end-to-end analytics pipeline on Victorian public data.
-Python ingestion → star-schema warehouse (DuckDB + dbt) → SQL analysis → interactive dashboard.
+An analytics pipeline on Victorian public data.
 
-- [x] Project scoping and dataset selection
-- [ ] Ingestion pipeline
-- [ ] Dimensional model with dbt
-- [ ] Analysis queries and findings
+- [x] Scope the project
+- [ ] Python ingestion
+- [ ] DuckDB + dbt star-schema warehouse
+- [ ] SQL analysis
 - [ ] Dashboard
 
 ---
 
-### Featured projects
+### 🧸 Small fun builds
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**InfraAlign**](https://github.com/aatreyee257/infraalign) | CLI that detects drift between Terraform code and live AWS infrastructure. Classifies resources as Compliant / Drifted / Missing, alerts to Slack, and auto-remediates idempotently. | Go · AWS SDK v2 · HCL · Slack API |
-| **RAG evaluation pipeline** | Local retrieval-augmented generation pipeline for assistive-technology research, with evaluation over a Bluesky dataset. | Python · LangChain · Ollama · Chroma |
-| [**Portfolio**](https://github.com/aatreyee257/portfolio) | Personal site with a Terraform terminal hero and an in-browser InfraAlign drift-detection demo. | Next.js · Vercel |
+- **[Don't Get Distracted](https://github.com/aatreyee257/do-not-disturb)**: a Chrome extension that blocks distracting sites during focus sessions and makes you type a guilt sentence to quit early. Built with Claude.
+- *Mood Weather: coming soon. Type how you feel and a little cloud reacts.*
 
 ---
 
-### Tech stack
+### 🧰 Stack
 
-**Languages**<br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-**Cloud & Infrastructure**<br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-**AI & Data**<br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+```hcl
+locals {
+  languages = ["Go", "Python", "SQL", "JavaScript"]
+  cloud     = ["Terraform", "AWS", "IBM Cloud"]
+  ai        = ["LangChain", "Ollama", "ChromaDB"]
+  data      = ["Pandas", "DuckDB", "dbt"]
+  learning  = "AWS Solutions Architect – Associate"
+}
+```
